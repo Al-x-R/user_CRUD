@@ -1,5 +1,6 @@
 let primaryKey = 0
 const db = new Map()
+
 class User {
 
     constructor(values) {
